@@ -29,6 +29,7 @@ p{
 }
 section{
     height: 500px;
+    border: 2px solid red;
 }
 .link-button{
     text-decoration: none;
@@ -54,6 +55,7 @@ section{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    margin-top: 200px;
 }
 #font-end{
     border-left: 5px solid;
@@ -62,7 +64,7 @@ section{
 }
 #baby-web{
     border-left: 10px solid;
-    border-image: linear-gradient(180deg, blue, rgb(3, 41, 17)5, 40, 21));
+    border-image: linear-gradient(180deg, blue, rgb(3, 41, 17));
     border-image-slice: 1;
 }
 footer p{
